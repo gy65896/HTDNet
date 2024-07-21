@@ -4,11 +4,6 @@
  
 [![Paper](https://img.shields.io/badge/OneRestore-paper-red.svg)](https://ieeexplore.ieee.org/abstract/document/9564887)
 
-</div>
-<div align=center>
-<img src="https://github.com/user-attachments/assets/4da8a145-3007-4507-9121-1023eff1f96a" width="460">
-</div>
-
 
 ---
 >**OneRestore: A Universal Restoration Framework for Composite Degradation**<br>
