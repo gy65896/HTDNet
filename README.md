@@ -9,7 +9,7 @@
 
 ---
 >**OneRestore: A Universal Restoration Framework for Composite Degradation**<br>
-[Yu Guo](https://scholar.google.com/citations?user=klYz-acAAAAJ&hl=zh-CN)<sup>†</sup>, [Yuxu Lu](https://scholar.google.com.hk/citations?user=XXge2_0AAAAJ&hl=zh-CN), [Ryan Wen Liu](http://mipc.whut.edu.cn/index.html)<sup>* </sup>, Lizheng Wang, Fenghua Zhu <br>
+[Yu Guo](https://scholar.google.com/citations?user=klYz-acAAAAJ&hl=zh-CN), [Yuxu Lu](https://scholar.google.com.hk/citations?user=XXge2_0AAAAJ&hl=zh-CN), [Ryan Wen Liu](http://mipc.whut.edu.cn/index.html)<sup>* </sup>, Lizheng Wang, Fenghua Zhu <br>
 (* Corresponding Author)<br>
 >IEEE International Intelligent Transportation Systems Conference
 
